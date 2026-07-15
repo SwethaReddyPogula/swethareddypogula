@@ -1,11 +1,11 @@
-# Hi, I'm Swetha Pogula  👋
+## Hi, I'm Swetha Pogula  👋
 
-## 🚀 Senior .NET Full Stack Developer
+### 🚀 Senior .NET Full Stack Developer
 
 Experienced **Senior .NET Full Stack Developer** with **10+ years** of expertise in designing, developing, and maintaining enterprise-grade applications using Microsoft technologies. Skilled in backend development, REST APIs, SQL Server, Azure, application modernization, and Agile methodologies. Currently expanding expertise in **Generative AI**, **Retrieval-Augmented Generation (RAG)**, and **Semantic Kernel** to build AI-powered .NET applications.
 
 ---
-## 💼 Professional Summary
+### 💼 Professional Summary
 
 - 10+ years of experience in software development using Microsoft technologies.
 - Strong expertise in C#, ASP.NET MVC/Core, Web API, SQL Server, Entity Framework, and Azure.
@@ -15,41 +15,41 @@ Experienced **Senior .NET Full Stack Developer** with **10+ years** of expertise
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
-### Languages
+#### Languages
 - C#
 - SQL
 - JavaScript
 
-### Frameworks
+#### Frameworks
 - .NET Framework
 - .NET Core
 - ASP.NET MVC
 - ASP.NET Core Web API
 - Entity Framework
 
-### Frontend
+#### Frontend
 - HTML5
 - CSS3
 - JavaScript
 - AngularJS
 
-### Database
+#### Database
 - SQL Server
 
-### Cloud & DevOps
+#### Cloud & DevOps
 - Microsoft Azure
 - IIS
 - Git
 
-### Architecture & Practices
+#### Architecture & Practices
 - REST APIs
 - Design Patterns
 - Agile Scrum
 - Application Modernization
 
-### AI Skills
+#### AI Skills
 - Retrieval-Augmented Generation (RAG)
 - Azure OpenAI
 - Semantic Kernel
@@ -57,9 +57,9 @@ Experienced **Senior .NET Full Stack Developer** with **10+ years** of expertise
 
 ---
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 
-### Centific (Pactera Technologies)
+#### Centific (Pactera Technologies)
 **Senior .NET Developer**  
 **September 2021 – Present**
 
@@ -72,7 +72,7 @@ Experienced **Senior .NET Full Stack Developer** with **10+ years** of expertise
 
 ---
 
-### Vertafore India
+#### Vertafore India
 **Senior Software Engineer**  
 **December 2017 – September 2021**
 
@@ -84,7 +84,7 @@ Experienced **Senior .NET Full Stack Developer** with **10+ years** of expertise
 
 ---
 
-### Suvarna Techno Soft
+#### Suvarna Techno Soft
 **Software Developer**  
 **June 2014 – December 2017**
 
@@ -95,7 +95,7 @@ Experienced **Senior .NET Full Stack Developer** with **10+ years** of expertise
 
 ---
 
-## 🏆 Certifications & Awards
+### 🏆 Certifications & Awards
 
 - 🎓Microsoft Azure Fundamentals (AZ-900)
 - ⭐ Star Performer Award (2019)
@@ -103,14 +103,14 @@ Experienced **Senior .NET Full Stack Developer** with **10+ years** of expertise
 
 ---
 
-## Education
+### Education
 
 - Master of Computer Applications (MCA)
 - Bachelor of Science (B.Sc.)
 
 ---
 
-## Current Learning
+### Current Learning
 
 - Generative AI
 - Semantic Kernel
