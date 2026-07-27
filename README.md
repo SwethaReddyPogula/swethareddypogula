@@ -1,4 +1,4 @@
-## Hi, I'm Swetha Pogula  👋
+## Hi, I'm Swetha Pogula  👋👋
 
 ### 🚀 Senior .NET Full Stack Developer
 
